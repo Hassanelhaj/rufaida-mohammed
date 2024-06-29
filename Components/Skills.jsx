@@ -22,7 +22,7 @@ const Skills = () => {
             <div 
             className="w-40 lg:w-56 h-4 lg:h-6 bg-slate-700 dark:bg-white rounded-3xl">
               <span
-               className="block  w-36  lg:w-[200px]  h-4 lg:h-6  bg-gradient-to-r from-purple-700 via-indigo-600 to-purple-700 dark:bg-slate-700 dark:text-white"></span>
+               className="block  w-36  lg:w-[200px]  h-4 lg:h-6  bg-gradient-to-r from-yellow-500 via-purple-600 to-red-500 dark:bg-slate-700 dark:text-white"></span>
             </div>
           </div>
 
@@ -30,7 +30,7 @@ const Skills = () => {
             <span className="w-20 text-sm">Reading</span>
             <div className="w-40 lg:w-56 h-4 lg:h-6 bg-slate-700 dark:bg-white rounded-3xl">
               <span className="block  w-36  lg:w-[190px]  h-4 lg:h-6  
-              bg-gradient-to-r from-purple-700 via-indigo-600 to-purple-700 dark:bg-slate-700 dark:text-white"></span>
+              bg-gradient-to-r from-yellow-500 via-purple-600 to-red-500 dark:bg-slate-700 dark:text-white"></span>
             </div>
           </div>
 
@@ -38,14 +38,14 @@ const Skills = () => {
             <span className="w-20 text-sm">Marketing Skills</span>
             <div className="w-40 lg:w-56 h-4 lg:h-6 bg-slate-700 dark:bg-white rounded-3xl">
               <span className="block  w-36  lg:w-[200px]  h-4 lg:h-6 
-              bg-gradient-to-r from-purple-700 via-indigo-600 to-purple-700 dark:bg-slate-700 dark:text-white"></span>
+              bg-gradient-to-r from-yellow-500 via-purple-600 to-red-500 dark:bg-slate-700 dark:text-white"></span>
             </div>
           </div>
           <div className="flex justify-start items-center gap-2">
             <span className="w-20 text-sm">Mangements Skills</span>
             <div className="w-40 lg:w-56 h-4 lg:h-6 bg-slate-700 dark:bg-white rounded-3xl">
               <span className="block  w-36  lg:w-[185px]  h-4 lg:h-6 
-               bg-gradient-to-r from-purple-700 via-indigo-600 to-purple-700 dark:bg-slate-700 dark:text-white"></span>
+               bg-gradient-to-r from-yellow-500 via-purple-600 to-red-500 dark:bg-slate-700 dark:text-white"></span>
             </div>
           </div>
          
@@ -60,28 +60,28 @@ const Skills = () => {
             <div 
             className="w-40 lg:w-56 h-4 lg:h-6 bg-slate-700 dark:bg-white rounded-3xl">
               <span className="block  w-36  lg:w-[185px]  h-4 lg:h-6  
-              bg-gradient-to-r from-purple-700 via-indigo-600 to-purple-700 dark:bg-slate-700 dark:text-white"></span>
+              bg-gradient-to-r from-yellow-500 via-purple-600 to-red-500 dark:bg-slate-700 dark:text-white"></span>
             </div>
           </div> */}
           <div className="flex justify-start items-center gap-2 lg:gap-4">
             <span className="w-20 text-sm">Time Manegement</span>
             <div   className="w-40 lg:w-56 h-4 lg:h-6 bg-slate-700 dark:bg-white rounded-3xl">
               <span className="block  w-36  lg:w-[185px]  h-4 lg:h-6  
-              bg-gradient-to-r from-purple-700 via-indigo-600 to-purple-700 dark:bg-slate-700 dark:text-white"></span>
+              bg-gradient-to-r from-yellow-500 via-purple-600 to-red-500 dark:bg-slate-700 dark:text-white"></span>
             </div>
           </div>
           <div className="flex justify-start items-center gap-2 lg:gap-4">
             <span className="w-20 text-sm">Soft Skills</span>
             <div className="w-40 lg:w-56 h-4 lg:h-6 bg-slate-700 dark:bg-white rounded-3xl">
               <span className="block  w-36  lg:w-[185px]  h-4 lg:h-6 
-               bg-gradient-to-r from-purple-700 via-indigo-600 to-purple-700 dark:bg-slate-700 dark:text-white"></span>
+               bg-gradient-to-r from-yellow-500 via-purple-600 to-red-500 dark:bg-slate-700 dark:text-white"></span>
             </div>
           </div>
           {/* <div className="flex justify-start items-center gap-2 lg:gap-4">
             <span className="w-20 text-sm">English</span>
             <div className="w-40 lg:w-56 h-4 lg:h-6 bg-slate-700 dark:bg-white rounded-3xl">
               <span className="block  w-36  lg:w-[195px]  h-4 lg:h-6  
-              bg-gradient-to-r from-purple-700 via-indigo-600 to-purple-700 dark:bg-slate-700 dark:text-white"></span>
+              bg-gradient-to-r from-yellow-500 via-purple-600 to-red-500 dark:bg-slate-700 dark:text-white"></span>
             </div>
           </div> */}
         </section>
