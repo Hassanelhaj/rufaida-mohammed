@@ -1,5 +1,5 @@
 import React from 'react'
-import {BsFacebook, BsInstagram, BsLinkedin, BsTiktok} from 'react-icons/bs'
+import {BsFacebook, BsInstagram, BsLinkedin, BsTiktok, BsWhatsapp} from 'react-icons/bs'
 
 import {FaLinkedin} from 'react-icons/fa';
 import {SiGmail} from 'react-icons/si'
@@ -18,6 +18,9 @@ import {SiGmail} from 'react-icons/si'
               </a>
               <a href='https://www.tiktok.com/@rufiimohammed?_t=8naM7ugHGas&_r=1' >
               <BsTiktok/>
+              </a>
+              <a href='https://wa.me/message/QPKKYYPWEMWEB1' >
+              <BsWhatsapp/>
               </a>
           
           </div>
