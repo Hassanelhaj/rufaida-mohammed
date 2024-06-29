@@ -1,6 +1,6 @@
 import Image from "next/image";
 import React from "react";
-import profile from "../public/imgs/rufaida.png";
+import profile from "../public/imgs/rufaida.jpg";
 import Writer from "./Writer";
 
 const Hero = () => {
@@ -35,7 +35,9 @@ const Hero = () => {
           </div>
           <p className="capitalize text-center">
             {" "}
-            I am a versatile content writer and  with a passion for creating engaging and visually appealing content. With a keen eye for detail and a strong understanding of design principles and Programming, I strive to deliver high-quality work that exceeds client expectations. I have experience in the field of social Media Marketing . I am constantly seeking new challenges and opportunities to expand my skills and knowledge in the ever-evolving world of digital marketing.
+            Creative and results-driven Content Writer and Social Media Specialist experienced in crafting engaging content and managing dynamic social media campaigns.
+            Skilled in SEO, analytics, and trend analysis to boost online presence and drive audience engagement.
+            Passionate about storytelling and building strong brand identities across various digital platforms
           </p>
           <div className="flex flex-col sm:flex-row justify-between items-center gap-3 mt-2 ">
             <a

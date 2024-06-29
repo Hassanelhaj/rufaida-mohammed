@@ -8,7 +8,7 @@ const Writer = () => {
     <div className='App'>
       <h1 
       className='p-1
-   bg-gradient-to-r from-purple-400 via-indigo-600-300 to-pink-300 font-extrabold text-white
+   bg-gradient-to-r from-purple-700 via-indigo-600 to-purple-700 font-extrabold text-white
       
       '
       >
