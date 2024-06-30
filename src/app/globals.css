@@ -8,7 +8,7 @@
 body{
 
   font-family: 'Cairo', sans-serif; 
-  @apply bg-white dark:bg-slate-800 duration-100
+  @apply bg-gradient-to-r from-yellow-100 to-white dark:bg-slate-800 duration-100
 
   
 }
